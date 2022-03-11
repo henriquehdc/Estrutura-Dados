@@ -1,12 +1,12 @@
 package TesteListaDupla.src;
 
-import ListaDupla.src.Lista3;
+import ListaDupla.src.Lista;
 
 public class Teste {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
 
-        Lista3 lista = new Lista3();
+        Lista lista = new Lista();
         lista.Inserir("nome", 123);
         lista.Imprimir();
         

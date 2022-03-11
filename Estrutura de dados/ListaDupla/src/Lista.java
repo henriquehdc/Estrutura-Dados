@@ -1,6 +1,6 @@
 package ListaDupla.src;
 
-public class Lista3 {
+public class Lista {
 
     No fim , inicio;
     int total; 
