@@ -1,4 +1,4 @@
-//package ListaGenerica.src;
+package ListaGenerica.src;
 
 public class Aluno { 
     String nome;

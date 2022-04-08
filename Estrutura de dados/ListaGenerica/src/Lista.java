@@ -1,4 +1,4 @@
-//package ListaGenerica.src;
+package ListaGenerica.src;
 public class Lista<T> {
   
     No<T> inicio, fim;

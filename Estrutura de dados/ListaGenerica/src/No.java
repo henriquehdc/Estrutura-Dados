@@ -1,4 +1,4 @@
-//package ListaGenerica.src;
+package ListaGenerica.src;
 public class No<T> {
     T dado; // não aceita tipo de dado primitivo int = integer
     No<T> proximo, anterior;
