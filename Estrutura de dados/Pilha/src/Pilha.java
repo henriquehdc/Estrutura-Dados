@@ -1,3 +1,4 @@
+package Pilha.src;
 import java.util.Scanner;
 import java.util.Stack;
 
@@ -6,6 +7,7 @@ public class Pilha {
     // POP -> Remover e PUSH -> Inserir
     public static void main(String[] args) throws Exception {
         Scanner ler = new Scanner(System.in);
+        
         Stack <Integer> pilha = new Stack<Integer>();
 
         System.out.print("Insira um numero para trasnformar ele em binário:");
@@ -23,6 +25,7 @@ public class Pilha {
         }      
         
         
+
         //notação polonesa reversa  ou notação Pós-fixa  (AB+) 
     }
 }
